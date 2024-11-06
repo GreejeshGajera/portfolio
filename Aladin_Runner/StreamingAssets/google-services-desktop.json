@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62696317856",
+    "project_id": "sherasuffer",
+    "storage_bucket": "sherasuffer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62696317856:android:d311525e346dc902e7bac5",
+        "android_client_info": {
+          "package_name": "com.digiqal.sherarunner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62696317856-t1vu4di2pbejaf2dsi3ulukqtv7jf430.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKDV9O8tmbUHD8-IyK1OghuyoiMkvcYDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62696317856-t1vu4di2pbejaf2dsi3ulukqtv7jf430.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

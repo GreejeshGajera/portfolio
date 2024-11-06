@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "808180332723",
+    "project_id": "prince-runner-7fece",
+    "storage_bucket": "prince-runner-7fece.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808180332723:android:07ff188638447f891918c6",
+        "android_client_info": {
+          "package_name": "com.enixo.princerunner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808180332723-i2ui2e8dhgnmgca3k4deg99941bnjktq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKwh04xc7f_mgdQakGJNM-0RwDv1y3W_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808180332723-i2ui2e8dhgnmgca3k4deg99941bnjktq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

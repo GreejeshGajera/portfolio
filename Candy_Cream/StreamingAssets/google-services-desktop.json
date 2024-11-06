@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "915125926692",
+    "project_id": "sweet-candy-a220d",
+    "storage_bucket": "sweet-candy-a220d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915125926692:android:b7d544844d294b37cfd1b1",
+        "android_client_info": {
+          "package_name": "com.betagamma.sweetcandy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915125926692-33rc698q07kilkp95lj5aa89r309m6as.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUwMJiPP6y1XGYu7DpFKk-ATmGFmiWlbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915125926692-33rc698q07kilkp95lj5aa89r309m6as.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "924243400342",
+    "project_id": "simulator-games-1d944",
+    "storage_bucket": "simulator-games-1d944.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924243400342:android:1544da3ea49c6d55aa94b7",
+        "android_client_info": {
+          "package_name": "com.appyhigh.gunsimulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924243400342-c4g0h131ev365fgd4sb24442154s6d3i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appyhigh.gunsimulator",
+            "certificate_hash": "082418e544cc81cfb2cd928bc3a5188c3dcd8c98"
+          }
+        },
+        {
+          "client_id": "924243400342-qvlhll4gells7em32q577jun69m3q2r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJEmPyXkhY7GzP_lGmM4t5heJchr55UeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924243400342-qvlhll4gells7em32q577jun69m3q2r0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

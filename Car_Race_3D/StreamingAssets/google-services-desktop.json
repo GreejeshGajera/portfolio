@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "264073475200",
+    "project_id": "com11racing11carstuntmaster",
+    "storage_bucket": "com11racing11carstuntmaster.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264073475200:android:d78c03ba6ca480e8ca2265",
+        "android_client_info": {
+          "package_name": "com.racing.carstuntmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264073475200-fbkh8f32gh3a38cuqqdeve9e2445gtho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtnWgR_S5rolO9ovYsrAANerD7ShYj21o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264073475200-fbkh8f32gh3a38cuqqdeve9e2445gtho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

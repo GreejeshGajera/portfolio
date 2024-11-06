@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "486562615935",
+    "project_id": "wordler-573b4",
+    "storage_bucket": "wordler-573b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486562615935:android:623d6839059e904dace54a",
+        "android_client_info": {
+          "package_name": "com.crazyhitgames.wordleradailypuzzlegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486562615935-crgn5ajb8cu85ksq1qcjc32jv72mvr8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI2IG_BIqlAeNyAA-URF3bKSjspM9cOTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486562615935-crgn5ajb8cu85ksq1qcjc32jv72mvr8d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "486562615935-cl64sc11bvd91ss5atidnltbnkiqoulu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.crazyhitgames.wordleradailypuzzlegame"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

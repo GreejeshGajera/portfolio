@@ -1,0 +1,216 @@
+{
+  "project_info": {
+    "project_number": "924243400342",
+    "project_id": "simulator-games-1d944",
+    "storage_bucket": "simulator-games-1d944.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924243400342:android:2d3b120d0521e016aa94b7",
+        "android_client_info": {
+          "package_name": "com.AppyHigh.BusSimulatorGo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924243400342-nn6vrj3303fkp63ja2kmmctncotainoq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.AppyHigh.BusSimulatorGo",
+            "certificate_hash": "06ed6dec3b46d97e14bbb1ebe2dd537281f4c7b1"
+          }
+        },
+        {
+          "client_id": "924243400342-qvlhll4gells7em32q577jun69m3q2r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJEmPyXkhY7GzP_lGmM4t5heJchr55UeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924243400342-qvlhll4gells7em32q577jun69m3q2r0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "924243400342-avgrjunsu2uato0h3s5eg817jmolo4ju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appyhigh.gunsimulator"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4310459535775382~6240213630"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924243400342:android:1544da3ea49c6d55aa94b7",
+        "android_client_info": {
+          "package_name": "com.appyhigh.gunsimulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924243400342-c4g0h131ev365fgd4sb24442154s6d3i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appyhigh.gunsimulator",
+            "certificate_hash": "082418e544cc81cfb2cd928bc3a5188c3dcd8c98"
+          }
+        },
+        {
+          "client_id": "924243400342-qvlhll4gells7em32q577jun69m3q2r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJEmPyXkhY7GzP_lGmM4t5heJchr55UeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924243400342-qvlhll4gells7em32q577jun69m3q2r0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "924243400342-avgrjunsu2uato0h3s5eg817jmolo4ju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appyhigh.gunsimulator"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4310459535775382~1020767851"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924243400342:android:31bad52c1593b3afaa94b7",
+        "android_client_info": {
+          "package_name": "com.appyhigh.wordsearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924243400342-kdngfga9nm620bv16s5rg6atnogus8jr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appyhigh.wordsearch",
+            "certificate_hash": "8c353c9b71d8ac56311f8ff2e44e42c877d9b717"
+          }
+        },
+        {
+          "client_id": "924243400342-qvlhll4gells7em32q577jun69m3q2r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJEmPyXkhY7GzP_lGmM4t5heJchr55UeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924243400342-qvlhll4gells7em32q577jun69m3q2r0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "924243400342-avgrjunsu2uato0h3s5eg817jmolo4ju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appyhigh.gunsimulator"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924243400342:android:9d1c36fa0918bb2faa94b7",
+        "android_client_info": {
+          "package_name": "drop.helix.jump.stack.ball.blast.fall.smash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924243400342-qvlhll4gells7em32q577jun69m3q2r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJEmPyXkhY7GzP_lGmM4t5heJchr55UeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924243400342-qvlhll4gells7em32q577jun69m3q2r0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "924243400342-avgrjunsu2uato0h3s5eg817jmolo4ju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appyhigh.gunsimulator"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924243400342:android:6f42f64ee62c0975aa94b7",
+        "android_client_info": {
+          "package_name": "water.sort.color.match.puzzle.watercolor.liquid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924243400342-qvlhll4gells7em32q577jun69m3q2r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJEmPyXkhY7GzP_lGmM4t5heJchr55UeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924243400342-qvlhll4gells7em32q577jun69m3q2r0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "924243400342-avgrjunsu2uato0h3s5eg817jmolo4ju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appyhigh.gunsimulator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

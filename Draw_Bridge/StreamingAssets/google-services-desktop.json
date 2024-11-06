@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "31123461986",
+    "project_id": "draw-bridge-97d43",
+    "storage_bucket": "draw-bridge-97d43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31123461986:android:a361eae80c9335afa37e3b",
+        "android_client_info": {
+          "package_name": "com.geekee.draw.bridge.line.puzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31123461986-de7ee0se4v0s1ulltbttj03lgbldh733.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geekee.draw.bridge.line.puzzle",
+            "certificate_hash": "ee113a617756da1c2701cf9b0dc7a21ab09469e0"
+          }
+        },
+        {
+          "client_id": "31123461986-aado9b6uvulkf06crk46o0es2g0rfj4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyVU6MOhHDBxOr31vv-jYOakSJwzdjyBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31123461986-aado9b6uvulkf06crk46o0es2g0rfj4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
