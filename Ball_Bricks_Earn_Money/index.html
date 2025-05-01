@@ -66,9 +66,9 @@
       var loaderUrl = buildUrl + "/Ball-Bricks-Earn-Money.loader.js";
       var config = {
         arguments: [],
-        dataUrl: buildUrl + "/Ball-Bricks-Earn-Money.data.gz",
-        frameworkUrl: buildUrl + "/Ball-Bricks-Earn-Money.framework.js.gz",
-        codeUrl: buildUrl + "/Ball-Bricks-Earn-Money.wasm.gz",
+        dataUrl: buildUrl + "/Ball-Bricks-Earn-Money.data.unityweb",
+        frameworkUrl: buildUrl + "/Ball-Bricks-Earn-Money.framework.js.unityweb",
+        codeUrl: buildUrl + "/Ball-Bricks-Earn-Money.wasm.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Bytecode",
         productName: "Block Game - Earn Money Game",
@@ -115,7 +115,7 @@
 
       document.querySelector("#unity-loading-bar").style.display = "block";
 
-      var script = document.createElement("script");
+       var script = document.createElement("script");
       var gameInstance = null;
       script.src = loaderUrl;
       var myGameInstance = null;
