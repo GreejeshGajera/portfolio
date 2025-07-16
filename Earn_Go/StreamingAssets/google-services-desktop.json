@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "19451220238",
+    "project_id": "go-puzzle-533c2",
+    "storage_bucket": "go-puzzle-533c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19451220238:android:54636740e775dc9323475f",
+        "android_client_info": {
+          "package_name": "com.earn.go.puzzle.causal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArsm76DTlLTPwAmelAFcR1nAeDd6OJ8mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
